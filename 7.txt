@@ -1,0 +1,7 @@
+var strength = "50,000 pounds" ;
+console.log('How much stuff can a variable hold? ', strength);
+var age = 18;
+console.log(age);
+// Output: 18
+var hasPet = true;
+console.log(hasPet);
